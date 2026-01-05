@@ -1,5 +1,3 @@
-my scroll wheel sometimes inputs reverse scroll direction which results in jitter
+my scroll wheel sometimes inputs reverse scroll direction which results in jittering
 
-scrollfix - just locks scroll direction to eliminate jitter (stable)
-
-scrollfix2 - tries to mitigate the gaps created by a faulty scroll wheel (experimental)
+this ahk v2 script just locks scroll direction to eliminate the jitter
